@@ -32,10 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Less stylesheet file
-*.less linguist-detectable=true
-*.less linguist-documentation=false
-*.less linguist-language=Less
+# OCaml source file
+*.ml linguist-detectable=true
+*.ml linguist-documentation=false
+*.ml linguist-language=OCaml
+*.mli linguist-detectable=true
+*.mli linguist-documentation=false
+*.mli linguist-language=OCaml
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -164,7 +167,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Thursday, September 8th at 2:13 pm PST)
+# Line count (including blank lines and compiler line): 174
 # End of script
